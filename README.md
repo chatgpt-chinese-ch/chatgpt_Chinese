@@ -21,6 +21,7 @@
 
 以下是精选的国内优质 **ChatGPT 中文版镜像网站**，提供高效的中文访问体验：
 - [https://ai.bearvision.cn/](https://ai.bearvision.cn/) - **免费ChatGPT**，支持 GPT-4、4o、o1、o3、deepseek ，手机号邮箱登录，支持图片，文件分析。。
+- [https://jeniya.cn/](https://jeniya.cn/) - **API中转站**，支持通过API调用ChatGPT进行各种应用，支持 GPT-4、4o、o1、o3 版本，以及deepseek等多个AI模型。。
 
 ## ChatGPT 官网与中文版的区别
 | 对比项 | ChatGPT官网 | ChatGPT中文版（镜像网站）|
